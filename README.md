@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Portfolio Desktop Demo](C:\Users\hp\Desktop\Kim-master\assets\images\preview.png "Desktop Demo")
 
 ### Prerequisites
 
