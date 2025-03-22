@@ -7,7 +7,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://www.bethwelkimaru.online/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,18 +30,18 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
+sudo git clone https://github.com/kkiget/profile-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/portfolio.git
+git clone https://github.com/kkiget/profile-portfolio.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/kimarukiget).
 
 ### License
 
